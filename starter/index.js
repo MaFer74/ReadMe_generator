@@ -18,12 +18,12 @@ const questions = [
       {
         type: 'input',
         name: 'installations',
-        message: 'What instalations instructions?',
+        message: 'What are the instalations instructions?',
       },
       {
         type: 'input',
         name: 'usage',
-        message: 'What is the purpose of this app?',
+        message: 'What is the purpose of this exercise?',
       },
       {
         type: 'input',
@@ -43,12 +43,12 @@ const questions = [
       {
         type: 'input',
         name: 'questions_github',
-        message: 'what si your github username?',
+        message: 'What is your github username?',
       },
       {
         type: 'input',
         name: 'questions_email',
-        message: 'what is your email addres?',
+        message: 'What is your e-mail address?',
       },
 
 
