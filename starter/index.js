@@ -26,9 +26,10 @@ const questions = [
         message: 'What is the purpose of this exercise?',
       },
       {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'list the licenses used in this repo',
+        choices:["MIT", "Apache", "None"]
       },
       {
         type: 'input',
