@@ -35,7 +35,7 @@ ${data.contribuition}
 ${data.tests}
 
 ## Questions
-If you want to visit my reporsitory, please find me in https://github.com/${data.questions_github}
+If you want to visit my repository, please find me in https://github.com/${data.questions_github}
 If you have any questions please contact me via ${data.questions_email}
 
 

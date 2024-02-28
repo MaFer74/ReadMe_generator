@@ -18,7 +18,7 @@ const questions = [
       {
         type: 'input',
         name: 'installations',
-        message: 'What are the instalations instructions?',
+        message: 'What are the installations instructions?',
       },
       {
         type: 'input',
@@ -33,7 +33,7 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'contribuition',
+        name: 'contribution',
         message: 'How did you contribute to this repo',
       },
       {
