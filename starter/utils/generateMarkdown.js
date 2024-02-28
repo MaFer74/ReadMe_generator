@@ -13,7 +13,7 @@ ${data.description}
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contribuitions](#contribuitions)
+* [Contributions](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -28,8 +28,8 @@ ${data.usage}
 ## License
 ${data.license}
 
-## Contribuitions
-${data.contribuition}
+## Contributions
+${data.contribution}
 
 ## Tests
 ${data.tests}

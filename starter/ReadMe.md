@@ -11,7 +11,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contribuitions](#contribuitions)
+* [Contributions](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -26,14 +26,14 @@
 ## License
 None
 
-## Contribuitions
+## Contributions
  
 
 ## Tests
  
 
 ## Questions
-If you want to visit my reporsitory, please find me in https://github.com/ 
+If you want to visit my repository, please find me in https://github.com/ 
 If you have any questions please contact me via  
 
 
