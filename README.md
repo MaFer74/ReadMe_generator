@@ -27,7 +27,8 @@ For this project I used Node, package.json and enquirer
 ## Usage
 The purpose of this exercise was to demonstrate that we can use JavaScript to generate a ReadMe file.
 
-![alt text](assets/screenshot.png)
+![screenshot](starter/assets/screenshot.png)
+![video](starter/assets/Recording.mp4)
 
 ## License
 Apache
