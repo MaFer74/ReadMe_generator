@@ -6,7 +6,7 @@
 
 This projects is about how to create a ReadMe file using JS
 
-Please find the video in the video section of the repo
+Please find the video in the assets section of the repo
 
 
 
@@ -26,6 +26,8 @@ For this project I used Node, package.json and enquirer
 
 ## Usage
 The purpose of this exercise was to demonstrate that we can use JavaScript to generate a ReadMe file.
+
+![alt text](assets/ReadMe_screenshot.png)
 
 ## License
 Apache
