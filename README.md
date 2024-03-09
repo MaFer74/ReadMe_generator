@@ -27,6 +27,8 @@ For this project I used Node, package.json and enquirer
 ## Usage
 The purpose of this exercise was to demonstrate that we can use JavaScript to generate a ReadMe file.
 
+<img width="1220" alt="ReadMe screeshot" src="https://github.com/MaFer74/ReadMe_generator/assets/152433962/11f3dad0-67e8-414e-b21e-19ccff08728f">
+
 ![screenshot](starter/assets/screenshot.png)
 ![video](starter/assets/Recording.mp4)
 
